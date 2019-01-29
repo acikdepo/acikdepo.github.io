@@ -6,3 +6,9 @@
 *.key filter=lfs diff=lfs merge=lfs -text
 /aciklab/conf/distributions filter=lfs diff=lfs merge=lfs -text
 /aciklab/db/version filter=lfs diff=lfs merge=lfs -text
+/dists/onyedi/InRelease filter=lfs diff=lfs merge=lfs -text
+/dists/onyedi/Release filter=lfs diff=lfs merge=lfs -text
+*.gpg filter=lfs diff=lfs merge=lfs -text
+/dists/onyedi/main/binary-amd64/Packages filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+/dists/onyedi/main/binary-amd64/Release filter=lfs diff=lfs merge=lfs -text
