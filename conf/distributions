@@ -1,0 +1,7 @@
+Origin: acikdepo.github.io/aciklab
+Label: acikdepo.github.io/aciklab
+Codename: onyedi
+Architectures: amd64
+Components: main
+Description: Aciklab repository
+SignWith: B26AAB0056C4FA191358A98EB8EDEF7034D58926
