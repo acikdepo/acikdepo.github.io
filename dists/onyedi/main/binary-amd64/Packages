@@ -1,0 +1,16 @@
+Package: lightdm-hvl-greeter
+Version: 0.84
+Installed-Size: 936
+Maintainer: onur kepenek <onurkepnk@gmail.com>
+Architecture: amd64
+Depends: lightdm, libqt5webenginewidgets5, liblightdm-qt5-3-0, libqt5webengine5, libx11-6, libxcursor1, libqt5x11extras5
+Priority: optional
+Section: x11
+Filename: pool/main/l/lightdm-hvl-greeter/lightdm-hvl-greeter_0.84_amd64.deb
+Size: 596542
+SHA256: 4063e85ef95ffdb2557c6443a68aa548506b60cd615662e48da958f699fa0f22
+SHA1: a9cb274caf41b53dc7334c0df395f0c7871a79c7
+MD5sum: 724d53ca023d7cf437cd966661a9c946
+Description: Enterprise login display manager
+ Login screen for enterprise (QT greeter)
+
