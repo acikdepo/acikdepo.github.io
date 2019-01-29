@@ -1,5 +1,5 @@
-Origin: aciklab
-Label: aciklab
+Origin: http://acikdepo.github.io/acikdepo 
+Label: http://acikdepo.github.io/acikdepo 
 Codename: onyedi
 Architectures: amd64
 Components: main
