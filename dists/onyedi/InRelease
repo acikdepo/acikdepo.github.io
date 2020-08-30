@@ -1,36 +1,36 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
-Origin: acikdepo.github.io/aciklab
-Label: acikdepo.github.io/aciklab
+Origin: http://depo.aciklab.org
+Label: http://depo.aciklab.org
 Codename: onyedi
-Date: Tue, 29 Jan 2019 05:32:27 UTC
+Date: Sun, 30 Aug 2020 06:58:28 UTC
 Architectures: amd64
 Components: main
 Description: Aciklab repository
 MD5Sum:
- fee84993cdb3d8761050cc93ff51f17c 623 main/binary-amd64/Packages
- 90a2f3d9b6ab6f82168fbe50385bfc9a 424 main/binary-amd64/Packages.gz
+ 48a366f79fd400f629f826fa4f6cd819 649 main/binary-amd64/Packages
+ abc35fbdef3387d58180491ec8d8df1c 435 main/binary-amd64/Packages.gz
  0347d911bc2aa5dc9484403b88f3131e 137 main/binary-amd64/Release
 SHA1:
- d97365b3d08ab105a0b025b33df67daad31c2534 623 main/binary-amd64/Packages
- a9f52824800ce6d279af07b1b355bbb856ccf497 424 main/binary-amd64/Packages.gz
+ b033db4b1cdbc8ff154cd3ad4e7940c0543c841e 649 main/binary-amd64/Packages
+ 228c32117b6a3fbe72af6c5691493812f2e367ce 435 main/binary-amd64/Packages.gz
  3c59eaeb345ec8e8151fd1ec9f7a87880104bbdd 137 main/binary-amd64/Release
 SHA256:
- 4553d519e5973c00c60821ab35c23c1a8d5bda15551e143e3fef6b67eb0dfe63 623 main/binary-amd64/Packages
- 859cac091ce864a2673aa29b0593463e36dd6b6a3d02b4311ed420c7d089168d 424 main/binary-amd64/Packages.gz
+ eef91ca83a5944f45b0b3a1088393cb703a4a5584dfab8c536ebb61cbf0b2719 649 main/binary-amd64/Packages
+ 71678bceddedc82259e628d9c8ef7aa25112727150e272668ec57f79129dbc05 435 main/binary-amd64/Packages.gz
  c625ecb9bdbe8f3fe8c059da5588db5d3a76ae988e8eda996bd1e2a99d4c3d17 137 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEsmqrAFbE+hkTWKmOuO3vcDTViSYFAlxP5W0ACgkQuO3vcDTV
-iSYKLwwAhrrKhGvPgveDeED9OgzeG+8y7ilhDFfmTVcQMiu5+sGopyghMu885hwC
-hYIXSFrT39BpXRrQ9Zl6SBPEpVw64tIBnBPWdp1fhduitjGUu3DjQ6pwVrgfJYd5
-jFxL/FrrZWkvsZjXhrmJ2TZqArW2VEJ1/9jkKVTPpIF6+qXJhJDYwuMO/DBPdhFX
-JoiskOI5QlBhZ9/hxhe+RZ1uFJ4Pm/jYew7rPeC2tYsMXkRZcMmq2eHCZW3WZsoX
-Bs+Z/GfJ1y9P3xiJH8BEkd+HtyeV7ePZDMcB9w6PLDzWkObanpCS6TdVmmwWbTVa
-UHf4zSdlmt9DDrIdiGT/qvzSPZHxcxmEqY15Df9xhm++7JrBUF2cfWcY8cS1yK7q
-QSqmnoWnmGM8YQxAanbTsKCbw3orHDxuKQ7EyO/y4vT5av0guMnNbi3w05OY6wIw
-lYC4yP5s9ABmScSzO6Arbc1MmWxhahwoi/+CzmfzwCPDIuuSJTWHsmsrtHRnz8hJ
-87zVoB/z
-=/NJt
+iQGzBAEBCgAdFiEEN4K7oaNAijeFrfH0xkAV87DCBKEFAl9LThQACgkQxkAV87DC
+BKF1hAv/Z1mA8yGsaeYr7Wfnd9fBv90yrlGk2k20HkPDLyijbLnKaQjXTO1wqDX2
+U13N7/VLd6uWZqv5y9KH/G5ehUia+lrBIY9drsuRiRQiFgh3KWLPiNEaJOkdO0gh
+YE7zii1r2v38HfBytPuxxb3Oz+YnphgmoN836ctEiOIMPSe7AdyQD+Jm9o3C60Rr
+CMQ+9/IL9kY87ny1jKRIbCpBRAe9VlRbrLYYWDL9OzLcNzYg9uIwsVl4nvOYkMhp
+3Llzv4MrG40c1Kt7Ip0uZEc5cNK7pu8wP1iXG8a5ORFvfscS4P8Icc2/4tp0jW+4
+mDS+eo9F8MPgG87Dx76gOgH9fbtRkVWLfdPkfBC2KjFkutlKBUGIaTGv3mVw2xj0
+MC1IIC+qEP9VIzGaexqr1EYzU+vyafyfMfiU3UB+yMZ63lV+KHVjd4+uYQcdFSx7
+ROixawBjBFxBcals2pnjh7l2Nc1BmrEx7JxV4FscUG1A4nIpg0WgkJyAThJEpIiW
+fYbDqspB
+=D3Cs
 -----END PGP SIGNATURE-----

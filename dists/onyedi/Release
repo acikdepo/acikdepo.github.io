@@ -1,19 +1,19 @@
-Origin: acikdepo.github.io/aciklab
-Label: acikdepo.github.io/aciklab
+Origin: http://depo.aciklab.org
+Label: http://depo.aciklab.org
 Codename: onyedi
-Date: Tue, 29 Jan 2019 05:32:27 UTC
+Date: Sun, 30 Aug 2020 06:58:28 UTC
 Architectures: amd64
 Components: main
 Description: Aciklab repository
 MD5Sum:
- fee84993cdb3d8761050cc93ff51f17c 623 main/binary-amd64/Packages
- 90a2f3d9b6ab6f82168fbe50385bfc9a 424 main/binary-amd64/Packages.gz
+ 48a366f79fd400f629f826fa4f6cd819 649 main/binary-amd64/Packages
+ abc35fbdef3387d58180491ec8d8df1c 435 main/binary-amd64/Packages.gz
  0347d911bc2aa5dc9484403b88f3131e 137 main/binary-amd64/Release
 SHA1:
- d97365b3d08ab105a0b025b33df67daad31c2534 623 main/binary-amd64/Packages
- a9f52824800ce6d279af07b1b355bbb856ccf497 424 main/binary-amd64/Packages.gz
+ b033db4b1cdbc8ff154cd3ad4e7940c0543c841e 649 main/binary-amd64/Packages
+ 228c32117b6a3fbe72af6c5691493812f2e367ce 435 main/binary-amd64/Packages.gz
  3c59eaeb345ec8e8151fd1ec9f7a87880104bbdd 137 main/binary-amd64/Release
 SHA256:
- 4553d519e5973c00c60821ab35c23c1a8d5bda15551e143e3fef6b67eb0dfe63 623 main/binary-amd64/Packages
- 859cac091ce864a2673aa29b0593463e36dd6b6a3d02b4311ed420c7d089168d 424 main/binary-amd64/Packages.gz
+ eef91ca83a5944f45b0b3a1088393cb703a4a5584dfab8c536ebb61cbf0b2719 649 main/binary-amd64/Packages
+ 71678bceddedc82259e628d9c8ef7aa25112727150e272668ec57f79129dbc05 435 main/binary-amd64/Packages.gz
  c625ecb9bdbe8f3fe8c059da5588db5d3a76ae988e8eda996bd1e2a99d4c3d17 137 main/binary-amd64/Release
