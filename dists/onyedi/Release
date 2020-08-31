@@ -1,19 +1,19 @@
 Origin: http://depo.aciklab.org
 Label: http://depo.aciklab.org
 Codename: onyedi
-Date: Sun, 30 Aug 2020 06:58:28 UTC
+Date: Mon, 31 Aug 2020 05:55:08 UTC
 Architectures: amd64
 Components: main
 Description: Aciklab repository
 MD5Sum:
- 48a366f79fd400f629f826fa4f6cd819 649 main/binary-amd64/Packages
- abc35fbdef3387d58180491ec8d8df1c 435 main/binary-amd64/Packages.gz
+ 4b214428f357c4d5b889b0f9eac0935c 1552 main/binary-amd64/Packages
+ 8c490f88abc2ee33e43dc2d1b0830222 870 main/binary-amd64/Packages.gz
  0347d911bc2aa5dc9484403b88f3131e 137 main/binary-amd64/Release
 SHA1:
- b033db4b1cdbc8ff154cd3ad4e7940c0543c841e 649 main/binary-amd64/Packages
- 228c32117b6a3fbe72af6c5691493812f2e367ce 435 main/binary-amd64/Packages.gz
+ ad9a340996ad43dd947fa811fa0971f2d850b4aa 1552 main/binary-amd64/Packages
+ 6ebee9755a09fae3a1c5b25f29807d54ac181581 870 main/binary-amd64/Packages.gz
  3c59eaeb345ec8e8151fd1ec9f7a87880104bbdd 137 main/binary-amd64/Release
 SHA256:
- eef91ca83a5944f45b0b3a1088393cb703a4a5584dfab8c536ebb61cbf0b2719 649 main/binary-amd64/Packages
- 71678bceddedc82259e628d9c8ef7aa25112727150e272668ec57f79129dbc05 435 main/binary-amd64/Packages.gz
+ bc0cd0b0787967cb05238aa5e4353c4b83ee272e6578315f16f6a0c914e8013f 1552 main/binary-amd64/Packages
+ 007892a28b3226cf3f04125dcc641ed8cb8582f3d5a2e13d786eb51b2e05587c 870 main/binary-amd64/Packages.gz
  c625ecb9bdbe8f3fe8c059da5588db5d3a76ae988e8eda996bd1e2a99d4c3d17 137 main/binary-amd64/Release
