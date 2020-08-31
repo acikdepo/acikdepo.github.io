@@ -1,11 +1,14 @@
 # AçıkDepo
 
-AcikDepo eklemek için:
+Depoyu sisteminize eklemek için aşağıdaki komutu kullanabilirsiniz.
 ```
-sudo echo "deb [arch=amd64] https://depo.aciklab.org/ onyedi main" > /etc/apt/sources.list.d/acikdepo.list
-sudo wget -qO - https://depo.aciklab.org/public.key | sudo apt-key add -
-sudo apt update
+/bin/bash -c "$(curl -fsSL https://git.io/JUqZV)"
 ```
+Liman MYS yüklemek için:
+```
+sudo apt install liman
+```
+
 
 Lightdm HVL Greeter yüklemek için:
 ```
