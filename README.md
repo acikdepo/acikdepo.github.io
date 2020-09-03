@@ -1,11 +1,21 @@
 # AçıkDepo
 
-AcikDepo eklemek için:
+Öncelikle eğer sunucunuzda curl paketi kurulu değil ise aşağıdaki komutlar ile curl paketini kurubilirsiniz.
 ```
-sudo echo "deb [arch=amd64] http://depo.aciklab.org/ onyedi main" > /etc/apt/sources.list.d/acikdepo.list
-sudo wget -qO - http://depo.aciklab.org/public.key | sudo apt-key add -
 sudo apt update
+sudo apt install curl -y
 ```
+
+
+Depoyu sisteminize eklemek için aşağıdaki komutu kullanabilirsiniz.
+```
+/bin/bash -c "$(curl -fsSL https://git.io/JUqZV)"
+```
+Liman MYS yüklemek için:
+```
+sudo apt install liman
+```
+
 
 Lightdm HVL Greeter yüklemek için:
 ```
