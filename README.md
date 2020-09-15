@@ -12,6 +12,7 @@ Depoyu sisteminize eklemek için aşağıdaki komutu kullanabilirsiniz.
 /bin/bash -c "$(curl -fsSL https://git.io/JUqZV)"
 ```
 Liman MYS yüklemek için:
+#### Liman'ı yüklemek için sunucunuzun dili ingilizce olmalıdır
 ```
 sudo apt install liman
 ```
