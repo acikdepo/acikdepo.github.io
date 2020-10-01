@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: http://depo.aciklab.org
 Label: http://depo.aciklab.org
 Codename: onyedi
-Date: Thu, 01 Oct 2020 05:00:48 UTC
+Date: Thu, 01 Oct 2020 05:01:50 UTC
 Architectures: amd64
 Components: main
 Description: Aciklab repository
@@ -22,15 +22,15 @@ SHA256:
  c625ecb9bdbe8f3fe8c059da5588db5d3a76ae988e8eda996bd1e2a99d4c3d17 137 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEN4K7oaNAijeFrfH0xkAV87DCBKEFAl91YoAACgkQxkAV87DC
-BKGOpwwAhkKLX9Xz0HLGbfAyvLAJZ9q7jJRJX24eHwwJr0JPHbKr4Vz2qCeRhKDO
-LqMEJacmxHgshjNtuam6bvhdwDBJVQj4BkEoW3htBeWQpTla3AjSfm67QHhrdVjI
-hsV4BP/YhJmEhkXbFZF4TDjyua34Lp7S5P1wzwUb3BKkUVR6yyDdrUokrwKukVG/
-TKPNhFRgK8H4d40wWLbUJkKY3mnvl/36gxSHv68md1/MzEx/lfcfmnKRm4wUFI2w
-ySSyiRFysrX5y+51xb0V0FkEt4teOiNOvxvN7clhC8NnAVRlpcClgN6yTZ/sgyUt
-kDhDumzWs8MMwO/DXu/+qfUsdkeF5YGbrJGbEpYG7EiC2XnmZTYrT57G3g5QQfM9
-jcVd0QI8KUEqoLdAZNXxbocI9Ak9WWNDzjA4t3/ryHWYEf8Wgj3MP69RSRrBx8NH
-vhbEXY7W7msJRribRjnfnv9/ddn7sTwF28YfEghVfR6FHe3nH9ox1sqJQiCgQP4b
-pFZnWu2e
-=KW6w
+iQGzBAEBCgAdFiEEN4K7oaNAijeFrfH0xkAV87DCBKEFAl91Yr4ACgkQxkAV87DC
+BKGgKwwAkn81sEKKjXFMQBAKNz/hVfcVsGH0IIqxElXHWZ3TzX4232gPgbrysMBz
+LR9WfnU3hAP/EbYwJM6/CrWhIhpDGnfKdITMGfcIALUa5V7iUvwHI89XmTQ9XVMV
+QPiHe8b81b9q6ngpvRTCEobZnU5TnmhbmGioM+thSIwxFUOFHDgdEoPK7IVYmg4f
+bstM3ApR7r9V0/N4It/UqsqGRbfcWwetIIZRqIih+ZDu3Y7ste46snlfNYSokR54
+Oh08rZb+28mGl0I6eSuZN3/ziAwhiWVQE8KAsN47MUtAQJWQcQJVsYhCiHpVbtJ5
+pvwppZ65XnQ0fEimljub7aHvOHALMl+NfRB5McBJTvwFSlfUpFbWs52T6RCorwIJ
+443SlLhdkKOJ9v8DEqzQU1Wo/zAJ4ltQx8t2ns7hAnpFiza/8BHSDBgnsNPJUm9d
+695v9uYO2ghtlPFQDrQBvlsJDj9ZxykCRTc1W2tq/I/AesWeNP/tGBZMZrV3BBvo
+re0s02lK
+=BKLX
 -----END PGP SIGNATURE-----
