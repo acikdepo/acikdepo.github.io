@@ -15,18 +15,18 @@ Description: Enterprise login display manager
  Login screen for enterprise (QT greeter)
 
 Package: liman
-Version: 1.4.0-209
+Version: 1.5.0-325
 Installed-Size: 77892
 Maintainer: Mert CELEN <mcelen@havelsan.com.tr>
-Date : Wed Sep 30 14:31:23 UTC 2020
+Date : Wed Dec  9 12:45:15 UTC 2020
 Architecture: amd64
 Priority: important
 Section: admin
-Filename: pool/main/l/liman/liman_1.4.0-209_amd64.deb
-Size: 78457230
-SHA256: 95c59a5d72aa5a9d7c6474b75625baf057972e3787dfceb6f143e4cdd33642c2
-SHA1: 9373bbabd0f8970389c974b9ead2d40eb9d49a79
-MD5sum: a3a55cf760b1366bdfa567c4d167a343
+Filename: pool/main/l/liman/liman_1.5.0-325_amd64.deb
+Size: 77774290
+SHA256: 2ee9cdc4228ccc6b8cf77162816998ccd56b590c61df0c7969a923d19db27b51
+SHA1: 5e25b3bdc833693297c71e73dcb8407e384a8f60
+MD5sum: e2bf4f8bac251d180dc7c2fe5d13e628
 Description: Liman MYS
-Depends: gpg, zip, unzip, nginx, redis, php-redis, php7.3-fpm, php7.3-curl, php7.3, php7.3-sqlite3, php7.3-snmp, php7.3-mbstring, php7.3-xml, php7.3-zip, php7.3-posix, libnginx-mod-http-headers-more-filter, libssl1.1, supervisor
+Depends: curl, gpg, zip, unzip, nginx, redis, php-redis, php7.3-fpm, php7.3-curl, php7.3, php7.3-sqlite3, php7.3-snmp, php7.3-mbstring, php7.3-xml, php7.3-zip, php7.3-posix, libnginx-mod-http-headers-more-filter, libssl1.1, supervisor, postgresql-13, php7.3-pgsql, pgloader, php7.3-bcmath, rsync, dnsutils, php7.3-ldap, php-smbclient, krb5-user, php-ssh2, smbclient, novnc, python3.7, python3-jinja2, python3-requests, python3-crypto, python3-paramiko, python3-tornado
 

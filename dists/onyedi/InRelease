@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: http://depo.aciklab.org
 Label: http://depo.aciklab.org
 Codename: onyedi
-Date: Thu, 01 Oct 2020 05:01:50 UTC
+Date: Wed, 09 Dec 2020 13:59:33 UTC
 Architectures: amd64
 Components: main
 Description: Aciklab repository
 MD5Sum:
- 2fd1f5e44e70596a41d8de9244bae258 1327 main/binary-amd64/Packages
- 2cbe411e8d009bc7597efa6cf2b444bb 766 main/binary-amd64/Packages.gz
+ 8826f08b469a1c8f6bfee5102b62ff6d 1567 main/binary-amd64/Packages
+ 563b5f85a7ee8de2470a9032dd0bca5b 879 main/binary-amd64/Packages.gz
  0347d911bc2aa5dc9484403b88f3131e 137 main/binary-amd64/Release
 SHA1:
- ba76c662dc86ca0cefaeb74c9b6b3764f429d5cd 1327 main/binary-amd64/Packages
- 8927fd50e20af7fc6dc97d9003bc1b99d363946b 766 main/binary-amd64/Packages.gz
+ 506bc76cf4950bf2423c1096fe1205797ebc73f8 1567 main/binary-amd64/Packages
+ 1ca7f396691f9b8eebe0d745e29c34c494707e7f 879 main/binary-amd64/Packages.gz
  3c59eaeb345ec8e8151fd1ec9f7a87880104bbdd 137 main/binary-amd64/Release
 SHA256:
- be205b7a253f4667dad14d4bdf6cd56ed7e5d6c27dbeaaf75064e19529c80259 1327 main/binary-amd64/Packages
- 303867b921caa7116c8e3a8776decee08b337ea695158f37faa904c7158a384b 766 main/binary-amd64/Packages.gz
+ 82551d303799b61fea4bcf574e999ca9db62170784801d359f449a6133d3ee73 1567 main/binary-amd64/Packages
+ 426881e483aca0e2065fcb8a8db2968bb2ecf217fef49033a51df6a832e254f5 879 main/binary-amd64/Packages.gz
  c625ecb9bdbe8f3fe8c059da5588db5d3a76ae988e8eda996bd1e2a99d4c3d17 137 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEN4K7oaNAijeFrfH0xkAV87DCBKEFAl91Yr4ACgkQxkAV87DC
-BKGgKwwAkn81sEKKjXFMQBAKNz/hVfcVsGH0IIqxElXHWZ3TzX4232gPgbrysMBz
-LR9WfnU3hAP/EbYwJM6/CrWhIhpDGnfKdITMGfcIALUa5V7iUvwHI89XmTQ9XVMV
-QPiHe8b81b9q6ngpvRTCEobZnU5TnmhbmGioM+thSIwxFUOFHDgdEoPK7IVYmg4f
-bstM3ApR7r9V0/N4It/UqsqGRbfcWwetIIZRqIih+ZDu3Y7ste46snlfNYSokR54
-Oh08rZb+28mGl0I6eSuZN3/ziAwhiWVQE8KAsN47MUtAQJWQcQJVsYhCiHpVbtJ5
-pvwppZ65XnQ0fEimljub7aHvOHALMl+NfRB5McBJTvwFSlfUpFbWs52T6RCorwIJ
-443SlLhdkKOJ9v8DEqzQU1Wo/zAJ4ltQx8t2ns7hAnpFiza/8BHSDBgnsNPJUm9d
-695v9uYO2ghtlPFQDrQBvlsJDj9ZxykCRTc1W2tq/I/AesWeNP/tGBZMZrV3BBvo
-re0s02lK
-=BKLX
+iQGzBAEBCgAdFiEEN4K7oaNAijeFrfH0xkAV87DCBKEFAl/Q2EUACgkQxkAV87DC
+BKFjdgv/ULrA8kuCY1StQalFGT9FIpme35tvcvKXcewkZLoqn+KlF9iDGc011Ef+
+XWs4u0H0ypV62pwRZnmW+UFuPXAn6IP0i0snIcb62DMKjn3MRtUa1wvfpaw+hDAk
+8t8ngOnC/b5qcSJn8XF9JhpE8Q9UyM8gv9f77zN/54GKHLdrKLDm51gkPh+F95pq
+MU7SwHkCnWkclncj/jHRLYJ2ZU68Gibus0rnfhlEegFszLwFeG6U6RdvEFza9RFV
+w1i2JbtuV6/NmA9L9Lt2Jy4iUAT2HxBdnK1Qr7wiGq07gBU8H/ZOFmwdk9ERc7Kt
+YcyHpwx6MnTtZSsHkUKncYfvP118zN5zzoYg7P4sdC3TxfPgAmSRv1lrgqiN1aHP
+6MDFExdARAmvv88ZdCYKAOBBCEIajxEg5NnkNe0Z6AEs93L5ketAAu92TZovURxS
+HDFcZrqnJ29kTgURaqo2IBSNs9NmHCm0IABO9lRj3bzCwB4nL7/3sAeHKBeDh/0A
+EZg5wTmz
+=JcGw
 -----END PGP SIGNATURE-----
