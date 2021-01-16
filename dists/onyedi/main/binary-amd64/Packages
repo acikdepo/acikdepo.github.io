@@ -30,3 +30,21 @@ MD5sum: e2bf4f8bac251d180dc7c2fe5d13e628
 Description: Liman MYS
 Depends: curl, gpg, zip, unzip, nginx, redis, php-redis, php7.3-fpm, php7.3-curl, php7.3, php7.3-sqlite3, php7.3-snmp, php7.3-mbstring, php7.3-xml, php7.3-zip, php7.3-posix, libnginx-mod-http-headers-more-filter, libssl1.1, supervisor, postgresql-13, php7.3-pgsql, pgloader, php7.3-bcmath, rsync, dnsutils, php7.3-ldap, php-smbclient, krb5-user, php-ssh2, smbclient, novnc, python3.7, python3-jinja2, python3-requests, python3-crypto, python3-paramiko, python3-tornado
 
+Package: sambahvl
+Version: 14
+Installed-Size: 106444
+Maintainer: Duygu Ölmez <zeynepduyguolmez@gmail.com>
+Depends: libcups2, libjansson4, libpython3.7, libgpgme11, ntpdate, krb5-user, python3-dnspython, openssh-server, ntp, python3-markdown, liblmdb0, libarchive13, libglib2.0-0, libunwind8, python3-dns, dnsutils
+Date : Fri 15 Jan 2021 01:12:34 PM +03
+Priority : optional
+Architecture: amd64
+Priority: optional
+Section: admin
+Filename: pool/main/s/sambahvl/sambahvl_14_amd64.deb
+Size: 24488854
+SHA256: 3c07516ebc4911ff5a290ec258184293eccf0b2d1a750f30ab139605d0704273
+SHA1: e1f8f5ee17492f8c7ca9758183822c1733ac8863
+MD5sum: 56fd29490bdd1f999a2e98571fc00072
+Description: Deb packages for SAMBA DC
+  Deb packages for SAMBA DC
+

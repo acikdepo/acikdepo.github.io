@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: http://depo.aciklab.org
 Label: http://depo.aciklab.org
 Codename: onyedi
-Date: Wed, 09 Dec 2020 13:59:33 UTC
+Date: Sat, 16 Jan 2021 06:52:45 UTC
 Architectures: amd64
 Components: main
 Description: Aciklab repository
 MD5Sum:
- 8826f08b469a1c8f6bfee5102b62ff6d 1567 main/binary-amd64/Packages
- 563b5f85a7ee8de2470a9032dd0bca5b 879 main/binary-amd64/Packages.gz
+ 9b1133a8192fc996757646b52184b466 2292 main/binary-amd64/Packages
+ 44b02c208806c9e43d028c10c0e5c293 1198 main/binary-amd64/Packages.gz
  0347d911bc2aa5dc9484403b88f3131e 137 main/binary-amd64/Release
 SHA1:
- 506bc76cf4950bf2423c1096fe1205797ebc73f8 1567 main/binary-amd64/Packages
- 1ca7f396691f9b8eebe0d745e29c34c494707e7f 879 main/binary-amd64/Packages.gz
+ 455fbdef0ffa22e4e8bebacd84bfe78ec2d446f8 2292 main/binary-amd64/Packages
+ 3fef185b3e9bf1702b7bb3ed8683d926b5ca9d89 1198 main/binary-amd64/Packages.gz
  3c59eaeb345ec8e8151fd1ec9f7a87880104bbdd 137 main/binary-amd64/Release
 SHA256:
- 82551d303799b61fea4bcf574e999ca9db62170784801d359f449a6133d3ee73 1567 main/binary-amd64/Packages
- 426881e483aca0e2065fcb8a8db2968bb2ecf217fef49033a51df6a832e254f5 879 main/binary-amd64/Packages.gz
+ 26473c41e9c8a087c6dd202c713f0b154375cc3366f2b13debfc8888e99a9f0d 2292 main/binary-amd64/Packages
+ 76eb71d3629777c88a5bfd4f1d88851124ec42c0e0084e8744521dc0313c477f 1198 main/binary-amd64/Packages.gz
  c625ecb9bdbe8f3fe8c059da5588db5d3a76ae988e8eda996bd1e2a99d4c3d17 137 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEN4K7oaNAijeFrfH0xkAV87DCBKEFAl/Q2EUACgkQxkAV87DC
-BKFjdgv/ULrA8kuCY1StQalFGT9FIpme35tvcvKXcewkZLoqn+KlF9iDGc011Ef+
-XWs4u0H0ypV62pwRZnmW+UFuPXAn6IP0i0snIcb62DMKjn3MRtUa1wvfpaw+hDAk
-8t8ngOnC/b5qcSJn8XF9JhpE8Q9UyM8gv9f77zN/54GKHLdrKLDm51gkPh+F95pq
-MU7SwHkCnWkclncj/jHRLYJ2ZU68Gibus0rnfhlEegFszLwFeG6U6RdvEFza9RFV
-w1i2JbtuV6/NmA9L9Lt2Jy4iUAT2HxBdnK1Qr7wiGq07gBU8H/ZOFmwdk9ERc7Kt
-YcyHpwx6MnTtZSsHkUKncYfvP118zN5zzoYg7P4sdC3TxfPgAmSRv1lrgqiN1aHP
-6MDFExdARAmvv88ZdCYKAOBBCEIajxEg5NnkNe0Z6AEs93L5ketAAu92TZovURxS
-HDFcZrqnJ29kTgURaqo2IBSNs9NmHCm0IABO9lRj3bzCwB4nL7/3sAeHKBeDh/0A
-EZg5wTmz
-=JcGw
+iQGzBAEBCgAdFiEEN4K7oaNAijeFrfH0xkAV87DCBKEFAmACjT0ACgkQxkAV87DC
+BKHXTAv/eA4APed7auLcg50h/nUmJvL4Rn4Sm4VF1sYjq8q0g8svE3MksWa6vrQb
+hck4p46l7V3XXKgC/Jcfd+zNcrd39GvDwbWuVZY8ECfCfzY0St54zAm5Op5wxNew
+ytUGfTEQEkokFn+u03DPjPTEOq+sYJVSfLgR/NsiOZcoNzhQUKcBUIQ63hmFGPe1
+Icl53j+Z/ORkTEQ8+SjoRxulGKKdIOXSVCQaejhXpX4hCpSgRo3hBAf9MkJEKfhN
+0OwPxN7Qm/UCh9vu9yTQE20mZWW/sXCGizmml3OWbYdwyQzznVqFyQU2c8NGCdSp
+FSYMkfHPFJqazeuD9iTy2UaT62SymWfhlpn28QQdrjIMx72VlUZNAUNmNcK4QJvF
+lVMQ0n6i97PswuU4qt/7DTZDqqV7iSOplX8rsfVTkeDddb4yhukMpEumx7KOd1Oy
+Iyk7zsUa0hJ4kF6649Awj/70cNnrj1ndAoCkoVSew3iAGvbkgLmGCIb7nPMJFYct
+gOgIKikL
+=R24K
 -----END PGP SIGNATURE-----
