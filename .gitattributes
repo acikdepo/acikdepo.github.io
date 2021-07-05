@@ -14,3 +14,7 @@
 /dists/onyedi/main/binary-amd64/Release filter=lfs diff=lfs merge=lfs -text
 /conf/options filter=lfs diff=lfs merge=lfs -text
 /CNAME filter=lfs diff=lfs merge=lfs -text
+/dists/focal/InRelease filter=lfs diff=lfs merge=lfs -text
+/dists/focal/Release filter=lfs diff=lfs merge=lfs -text
+/dists/focal/main/binary-amd64/Packages filter=lfs diff=lfs merge=lfs -text
+/dists/focal/main/binary-amd64/Release filter=lfs diff=lfs merge=lfs -text
