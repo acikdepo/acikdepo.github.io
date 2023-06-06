@@ -33,3 +33,9 @@
 /dists/bullseye/main/binary-amd64/Packages filter=lfs diff=lfs merge=lfs -text
 /dists/bullseye/main/binary-amd64/Release filter=lfs diff=lfs merge=lfs -text
 *.rpm filter=lfs diff=lfs merge=lfs -text
+/dists/jammy/InRelease filter=lfs diff=lfs merge=lfs -text
+/dists/jammy/Release filter=lfs diff=lfs merge=lfs -text
+/dists/jammy/dev/binary-amd64/Packages filter=lfs diff=lfs merge=lfs -text
+/dists/jammy/dev/binary-amd64/Release filter=lfs diff=lfs merge=lfs -text
+/dists/jammy/main/binary-amd64/Packages filter=lfs diff=lfs merge=lfs -text
+/dists/jammy/main/binary-amd64/Release filter=lfs diff=lfs merge=lfs -text
